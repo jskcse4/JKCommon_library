@@ -16,7 +16,6 @@ public class TextUtils {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
 		return base64String;
 	}
 	
